@@ -1,7 +1,7 @@
 # AGI_QR_CODE_PROJEKT
 Projekt für FHDW - Modul AGI
 
-![alt text](AGI - ARCHITEKTUR.png?raw=true)
+![Alt text](AGI - ARCHITEKTUR.png?raw=true)
 
 
 Besteht aus 
