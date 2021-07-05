@@ -13,6 +13,9 @@ E:
 - QR-Daten aus eingelesene img-Dateien in einem Verzeichnis erkennen
 - QR-Codes mithilfe einer Kamera erkennen 
 
+
+
+Gobe Darstellung des Projekts: 
 ![Screenshot](ARCHITEKTUR.png)
 
 
