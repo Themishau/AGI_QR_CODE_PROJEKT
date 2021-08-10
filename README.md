@@ -21,4 +21,4 @@ Gobe Darstellung des Projekts:
 - Eportfunktion
 
 Gobe Darstellung des Dashboards: 
-![Screenshot](ARCHITEKTUR.png)
+![Screenshot](dashboard.png)
