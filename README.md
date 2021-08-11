@@ -6,7 +6,14 @@ Besteht aus
 - Dashboard mit Daten zu gescannten QR-Codes
 - Export der Daten
 
-Es gibt zusätzliche Daten zu Docker und das Datenbankchema für MySQL
+Jedes .py-Programm mit main, stellt ein eigenes Programm dar. 
+
+Es gibt zusätzliche Daten zu:
+- Docker,
+- BI-Export
+- Datenbankchema
+
+Für Docker-Image zum BI-Dashboard muss ein Docker-File mit einer eqquirements.txt-Datei angelegt werden.
 
 ## QR_Code - Scanner 
 - QR-Daten aus eingelesene img-Dateien in einem Verzeichnis erkennen
