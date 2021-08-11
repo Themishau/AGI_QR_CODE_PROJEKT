@@ -6,7 +6,7 @@ Besteht aus
 - Dashboard mit Daten zu gescannten QR-Codes
 - Export der Daten
 
-Jedes .py-Programm mit main, stellt ein eigenes Programm dar. 
+Jedes .py-Programm mit "_main", stellt ein eigenes Programm dar. 
 
 Es gibt zusätzliche Daten zu:
 - Docker,
